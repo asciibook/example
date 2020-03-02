@@ -1,4 +1,5 @@
 = My Book
+:base-url: https://asciibook.org/example/
 
 This is an example Asciibook project.
 
