@@ -4,3 +4,9 @@
 This is an example Asciibook project.
 
 image::images/icon.png[]
+
+== 中文标题
+
+中文内容。
+
+image::images/icon.png[]
