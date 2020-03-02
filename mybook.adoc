@@ -1,1 +1,5 @@
 = My Book
+
+This is an example Asciibook project.
+
+image::images/icon.png[]
